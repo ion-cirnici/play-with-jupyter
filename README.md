@@ -1,1 +1,1 @@
-# play-with-jupyter
+# PLaying with Jupyter
